@@ -62,7 +62,7 @@ local redzlib = {
 	Options = {},
 	Flags = {},
 	Tabs = {},
-	Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/realredz/RedzLibV5/refs/heads/main/Icons.lua"))()
+	Icons = loadstring(game:HttpGet("https://raw.githubusercontent.com/XenTz-Z/RedzLibV5/refs/heads/main/Icons.lua"))()
 }
 
 local ViewportSize = workspace.CurrentCamera.ViewportSize
